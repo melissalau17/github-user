@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="searchbar_hint">Enter a username</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string-array name="tab_titles">
+        <item>Followers</item>
+        <item>Following</item>
+    </string-array>
+</resources>
